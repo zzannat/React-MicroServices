@@ -6,6 +6,7 @@ export default function StudentApp1() {
     <div className="form-container">
       <form>
         <h1>Student Form</h1>
+        <h1>Student Login Form</h1>
         <label htmlFor="name">Name</label>
         <input type="text" id="name" name="name" />
 
